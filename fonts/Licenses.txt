@@ -13,7 +13,7 @@ https://github.com/farique1/Chartotype
 
 And:
 
- Vectrec Fake Raster.ttf
+ Vectrex Fake Raster.ttf
 
 made with
 Vectotype, Illustrator and FontForge:
