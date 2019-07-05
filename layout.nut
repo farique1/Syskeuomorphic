@@ -1,6 +1,6 @@
 // Attract Mode front end
 // Syskeuomorphic
-// Mimics the look and feel of the supported systems display
+// A simple Attract Mode layout that intends to mimic the look and feel of classical videogames and computer systems displays
 // Fred Rique (Farique) (c) 2018 - 2019
 // https://github.com/farique1/Syskeuomorphic
 
