@@ -14,8 +14,7 @@ The included systems are:
 - Virtual Boy (red and anaglyph)  
 - Arcade (not skeuomorphic)  
 
-IMAGE
-
+![# Syskeuomorphic](https://github.com/farique1/Syskeuomorphic/blob/master/GitHub/Syskeu_Screenboard.png?raw=true)
 
 > Systems screenshot view.  
 > Vectrex and Virtual Boy alternate screens.  
