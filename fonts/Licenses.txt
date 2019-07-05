@@ -8,7 +8,7 @@ Custom fonts:
  ZX81 Lower Clean.ttf
 
 made with
-Chartofont, potrace and FontForge:
+Chartotype, potrace and FontForge:
 https://github.com/farique1/Chartotype
 
 And:
