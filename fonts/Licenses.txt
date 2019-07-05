@@ -1,0 +1,37 @@
+Custom fonts:
+
+ A2600 Blocky.ttf
+ Amiga 1200.ttf
+ CoCo Lower Clean.ttf
+ MSX Screen 0 New.ttf
+ Odyssey2 Type New.ttf
+ ZX81 Lower Clean.ttf
+
+made with
+Chartofont, potrace and FontForge:
+https://github.com/farique1/Chartotype
+
+And:
+
+ Vectrec Fake Raster.ttf
+
+made with
+Vectotype, Illustrator and FontForge:
+https://github.com/farique1/Chartotype/tree/master/Vectotype
+
+
+Except:
+
+ Gelasio-Regular.ttf
+
+https://fontlibrary.org/en/font/gelasio
+OFL (SIL Open Font License)
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+And:
+
+ PixelOperatorMono-Bold.ttf
+
+https://fontlibrary.org/en/font/pixel-operator
+CC-0
+https://creativecommons.org/publicdomain/zero/1.0/

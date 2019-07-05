@@ -1,0 +1,5 @@
+Send information from the layout to the emulator through the file name.
+
+Layout_ALT.txt - Tell the emulator to use the alternate config.
+
+Layout_STD.txt - Tell the emulator to use the standard config.
