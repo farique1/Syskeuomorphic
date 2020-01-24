@@ -135,4 +135,4 @@ If FileExist( "F:\FrontEnd\attract-v2\layouts\Syskeuomorphic\Layout_STD.txt" ) {
 ```
 
 > These files are included for reference and are called `ParaJVEPreRun.ahk` and `mednafenPreRun.ahk`. They are provided in source format but are built into binary executables and put on the emulators folder to be used.  
-> In fact, all the emulators are called through **SHK** scripts to standardise the inputs and also add standard save and load state keys setup.  
+> In fact, all the emulators are called through **AHK** scripts to standardise the inputs and also add standard save and load state keys setup.  
