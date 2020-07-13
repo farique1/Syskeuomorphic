@@ -1,4 +1,4 @@
-<img src="https://github.com/farique1/Syskeuomorphic/blob/master/GitHub/GitHub_Syskeuomorphic.png" alt="Syskeuomorphic" width="300" height="75">  
+<img src="https://github.com/farique1/Syskeuomorphic/blob/master/GitHub/GitHub_Syskeuomorphic.png" alt="Syskeuomorphic" width="400" height="100">  
 
 # Syskeuomorphic  
 
